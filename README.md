@@ -1,0 +1,1 @@
+# Effective-Pattern-Discovery-Using-Text-Minning
